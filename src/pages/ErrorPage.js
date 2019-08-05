@@ -3,7 +3,7 @@ import React from 'react';
 
 const ErrorPage = () => {
     return (
-        <div>Nie ma takie strony</div>
+        <div>Nie ma takiej strony</div>
     );
 }
 
